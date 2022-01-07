@@ -58,12 +58,12 @@
         <translation>முகவரிகள் பெறப்படுகின்றன</translation>
     </message>
     <message>
-        <source>These are your Faithcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your Bolagato addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation>இவை பணம் அனுப்புவதற்கு உங்கள் பிட்கின் முகவரிகள். நாணயங்களை அனுப்புவதற்கு முன் எப்பொழுதும் தொகையும் பெறுதலையும் சரிபார்க்கவும்.</translation>
     </message>
     <message>
-        <source>These are your Faithcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>இவை உங்கள் Faithcoin முகவரிகள் பணம் பெறுவதற்கு. ஒவ்வொரு பரிவர்த்தனைக்கும் புதிய பெறுதல் முகவரியைப் பயன்படுத்த பரிந்துரைக்கப்படுகிறது.</translation>
+        <source>These are your Bolagato addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>இவை உங்கள் Bolagato முகவரிகள் பணம் பெறுவதற்கு. ஒவ்வொரு பரிவர்த்தனைக்கும் புதிய பெறுதல் முகவரியைப் பயன்படுத்த பரிந்துரைக்கப்படுகிறது.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -306,7 +306,7 @@
         <translation>வட்டில் தொகுதிகளை மறுஇயக்குகிறது ...</translation>
     </message>
     <message>
-        <source>Send coins to a Faithcoin address</source>
+        <source>Send coins to a Bolagato address</source>
         <translation>ஒரு விக்கிபீடியா முகவரிக்கு நாணயங்களை அனுப்பவும்</translation>
     </message>
     <message>
@@ -330,8 +330,8 @@
         <translation>&amp;செய்தியை சரிசெய்...</translation>
     </message>
     <message>
-        <source>Faithcoin</source>
-        <translation>Faithcoin</translation>
+        <source>Bolagato</source>
+        <translation>Bolagato</translation>
     </message>
     <message>
         <source>&amp;Send</source>
@@ -354,11 +354,11 @@
         <translation>உங்கள் பணப்பைச் சேர்ந்த தனிப்பட்ட விசைகளை குறியாக்குக</translation>
     </message>
     <message>
-        <source>Sign messages with your Faithcoin addresses to prove you own them</source>
+        <source>Sign messages with your Bolagato addresses to prove you own them</source>
         <translation>உங்கள் பிட்டினின் முகவரியுடன் செய்திகளை உங்களிடம் வைத்திருப்பதை நிரூபிக்க</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Faithcoin addresses</source>
+        <source>Verify messages to ensure they were signed with specified Bolagato addresses</source>
         <translation>குறிப்பிடப்பட்ட விக்கிபீடியா முகவர்களுடன் கையொப்பமிடப்பட்டதை உறுதிப்படுத்த, செய்திகளை சரிபார்க்கவும்</translation>
     </message>
     <message>
@@ -391,7 +391,7 @@
     </message>
     <message>
         <source>Open a bolagato: URI or payment request</source>
-        <translation>ஒரு Faithcoin திறக்க: URI அல்லது பணம் கோரிக்கை</translation>
+        <translation>ஒரு Bolagato திறக்க: URI அல்லது பணம் கோரிக்கை</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -518,7 +518,7 @@
         <translation>Wallet குறியாக்கப்பட்டு தற்போது பூட்டப்பட்டுள்ளது</translation>
     </message>
     <message>
-        <source>A fatal error occurred. Faithcoin can no longer continue safely and will quit.</source>
+        <source>A fatal error occurred. Bolagato can no longer continue safely and will quit.</source>
         <translation>Wallet குறியாக்கப்பட்டு தற்போது பூட்டப்பட்டுள்ளது</translation>
     </message>
 </context>
@@ -753,8 +753,8 @@
         <translation>தனிப்பயன் தரவு கோப்பகத்தைப் பயன்படுத்தவும்:</translation>
     </message>
     <message>
-        <source>Faithcoin</source>
-        <translation>Faithcoin</translation>
+        <source>Bolagato</source>
+        <translation>Bolagato</translation>
     </message>
     <message>
         <source>The wallet will also be stored in this directory.</source>
@@ -938,8 +938,8 @@
         <translation>&amp; உறுதிப்படுத்தப்படாத மாற்றத்தை செலவழிக்கவும்</translation>
     </message>
     <message>
-        <source>Automatically open the Faithcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>ரூட்டரில் Faithcoin கிளையன்ட் போர்ட் தானாக திறக்க. இது உங்கள் திசைவி UPnP ஐ ஆதரிக்கும் போது மட்டுமே இயங்குகிறது.</translation>
+        <source>Automatically open the Bolagato client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>ரூட்டரில் Bolagato கிளையன்ட் போர்ட் தானாக திறக்க. இது உங்கள் திசைவி UPnP ஐ ஆதரிக்கும் போது மட்டுமே இயங்குகிறது.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -954,8 +954,8 @@
         <translation>Incomin &amp; g இணைப்புகளை அனுமதிக்கவும்</translation>
     </message>
     <message>
-        <source>Connect to the Faithcoin network through a SOCKS5 proxy.</source>
-        <translation>Faithcoin பிணையத்துடன் SOCKS5 ப்ராக்ஸி மூலம் இணைக்கவும்.</translation>
+        <source>Connect to the Bolagato network through a SOCKS5 proxy.</source>
+        <translation>Bolagato பிணையத்துடன் SOCKS5 ப்ராக்ஸி மூலம் இணைக்கவும்.</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS5 proxy (default proxy):</source>
@@ -990,7 +990,7 @@
         <translation>Tor</translation>
     </message>
     <message>
-        <source>Connect to the Faithcoin network through a separate SOCKS5 proxy for Tor hidden services.</source>
+        <source>Connect to the Bolagato network through a separate SOCKS5 proxy for Tor hidden services.</source>
         <translation>டார் மறைக்கப்பட்ட சேவைகளை தனித்த SOCKS5 ப்ராக்ஸி மூலம் பிட்கோடு நெட்வொர்க்குடன் இணைக்கவும்.</translation>
     </message>
     <message>
@@ -1097,7 +1097,7 @@
         <translation>படிவம்</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Faithcoin network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bolagato network after a connection is established, but this process has not completed yet.</source>
         <translation>காட்டப்படும் தகவல் காலாவதியானதாக இருக்கலாம். ஒரு இணைப்பு நிறுவப்பட்ட பிறகு, உங்கள் பணப்பை தானாக பிட்கோடு நெட்வொர்க்குடன் ஒத்திசைக்கிறது, ஆனால் இந்த செயல்முறை இன்னும் முடிவடையவில்லை.</translation>
     </message>
     <message>
@@ -1173,7 +1173,7 @@
     </message>
     <message>
         <source>Cannot start bolagato: click-to-pay handler</source>
-        <translation>Faithcoin தொடங்க முடியாது: கிளிக் க்கு ஊதியம் கையாளுதல்</translation>
+        <translation>Bolagato தொடங்க முடியாது: கிளிக் க்கு ஊதியம் கையாளுதல்</translation>
     </message>
     <message>
         <source>URI handling</source>
@@ -1192,7 +1192,7 @@
         <translation>கட்டண கோரிக்கையை செயல்படுத்த முடியவில்லை, ஏனெனில் BIP70 ஆதரவு தொகுக்கப்படவில்லை.</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid Faithcoin address or malformed URI parameters.</source>
+        <source>URI cannot be parsed! This can be caused by an invalid Bolagato address or malformed URI parameters.</source>
         <translation>URI அலச முடியாது! தவறான பிட்கின் முகவரி அல்லது தவறான URI அளவுருக்கள் காரணமாக இது ஏற்படலாம்.</translation>
     </message>
     <message>
@@ -1646,8 +1646,8 @@
         <translation>&amp;செய்தி:</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Faithcoin network.</source>
-        <translation>கோரிக்கையை திறக்கும் போது காட்டப்படும் இது பணம் கோரிக்கை இணைக்க ஒரு விருப்ப செய்தி. குறிப்பு: Faithcoin நெட்வொர்க்கில் பணம் செலுத்தியவுடன் செய்தி அனுப்பப்படாது.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Bolagato network.</source>
+        <translation>கோரிக்கையை திறக்கும் போது காட்டப்படும் இது பணம் கோரிக்கை இணைக்க ஒரு விருப்ப செய்தி. குறிப்பு: Bolagato நெட்வொர்க்கில் பணம் செலுத்தியவுடன் செய்தி அனுப்பப்படாது.</translation>
     </message>
     <message>
         <source>An optional label to associate with the new receiving address.</source>
@@ -2131,8 +2131,8 @@ Note:  Since the fee is calculated on a per-byte basis, a fee of "100 satoshis p
 <context>
     <name>bitcoin-core</name>
     <message>
-        <source>Faithcoin Core</source>
-        <translation>Faithcoin மையம்</translation>
+        <source>Bolagato Core</source>
+        <translation>Bolagato மையம்</translation>
     </message>
     <message>
         <source>Information</source>

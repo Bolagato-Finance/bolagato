@@ -62,12 +62,12 @@
         <translation>Direcciones de recepción</translation>
     </message>
     <message>
-        <source>These are your Faithcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Estas son tus direcciones Faithcoin para realizar pagos. Verifica siempre el monto y la dirección de recepción antes de enviar monedas. </translation>
+        <source>These are your Bolagato addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Estas son tus direcciones Bolagato para realizar pagos. Verifica siempre el monto y la dirección de recepción antes de enviar monedas. </translation>
     </message>
     <message>
-        <source>These are your Faithcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Estas son tus direcciones Faithcoin para recibir pagos. Es recomendable usar una nueva dirección de recibo para cada transacción.</translation>
+        <source>These are your Bolagato addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Estas son tus direcciones Bolagato para recibir pagos. Es recomendable usar una nueva dirección de recibo para cada transacción.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -208,8 +208,8 @@
         <translation>Reindexando bloques en el disco...</translation>
     </message>
     <message>
-        <source>Send coins to a Faithcoin address</source>
-        <translation>Enviar monedas a una dirección Faithcoin</translation>
+        <source>Send coins to a Bolagato address</source>
+        <translation>Enviar monedas a una dirección Bolagato</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -224,8 +224,8 @@
         <translation>Abre la consola de depuración y diágnostico</translation>
     </message>
     <message>
-        <source>Faithcoin</source>
-        <translation>Faithcoin</translation>
+        <source>Bolagato</source>
+        <translation>Bolagato</translation>
     </message>
     <message>
         <source>&amp;Send</source>
@@ -248,12 +248,12 @@
         <translation>Encriptar las llaves privadas que pertenecen a tu billetera</translation>
     </message>
     <message>
-        <source>Sign messages with your Faithcoin addresses to prove you own them</source>
-        <translation>Firma mensajes con tus direcciones Faithcoin para probar que eres dueño de ellas</translation>
+        <source>Sign messages with your Bolagato addresses to prove you own them</source>
+        <translation>Firma mensajes con tus direcciones Bolagato para probar que eres dueño de ellas</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Faithcoin addresses</source>
-        <translation>Verificar mensajes para asegurar que estaban firmados con direcciones Faithcoin especificas</translation>
+        <source>Verify messages to ensure they were signed with specified Bolagato addresses</source>
+        <translation>Verificar mensajes para asegurar que estaban firmados con direcciones Bolagato especificas</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -491,8 +491,8 @@
         <translation>Usa un directorio de datos personalizado:</translation>
     </message>
     <message>
-        <source>Faithcoin</source>
-        <translation>Faithcoin</translation>
+        <source>Bolagato</source>
+        <translation>Bolagato</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -777,8 +777,8 @@
 <context>
     <name>bitcoin-core</name>
     <message>
-        <source>Faithcoin Core</source>
-        <translation>Faithcoin Core</translation>
+        <source>Bolagato Core</source>
+        <translation>Bolagato Core</translation>
     </message>
     <message>
         <source>Information</source>

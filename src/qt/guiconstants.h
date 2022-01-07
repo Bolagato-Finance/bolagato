@@ -46,11 +46,11 @@ static const int MAX_URI_LENGTH = 255;
 /* Number of frames in spinner animation */
 #define SPINNER_FRAMES 36
 
-#define QAPP_ORG_NAME "Faithcoin"
+#define QAPP_ORG_NAME "Bolagato"
 #define QAPP_ORG_DOMAIN "bolagato.org"
-#define QAPP_APP_NAME_DEFAULT "Faithcoin-Qt"
-#define QAPP_APP_NAME_TESTNET "Faithcoin-Qt-testnet"
-#define QAPP_APP_NAME_REGTEST "Faithcoin-Qt-regtest"
+#define QAPP_APP_NAME_DEFAULT "Bolagato-Qt"
+#define QAPP_APP_NAME_TESTNET "Bolagato-Qt-testnet"
+#define QAPP_APP_NAME_REGTEST "Bolagato-Qt-regtest"
 
 /* One gigabyte (GB) in bytes */
 static constexpr uint64_t GB_BYTES{1000000000};

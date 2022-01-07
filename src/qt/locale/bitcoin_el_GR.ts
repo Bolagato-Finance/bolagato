@@ -66,12 +66,12 @@
         <translation>Διευθύνσεις λήψης</translation>
     </message>
     <message>
-        <source>These are your Faithcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Αυτές είναι οι Faithcoin διευθύνσεις σας για να στέλνετε πληρωμές. Να ελέγχετε πάντα το ποσό, καθώς και τη διεύθυνση παραλήπτη πριν στείλετε νομίσματα.</translation>
+        <source>These are your Bolagato addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Αυτές είναι οι Bolagato διευθύνσεις σας για να στέλνετε πληρωμές. Να ελέγχετε πάντα το ποσό, καθώς και τη διεύθυνση παραλήπτη πριν στείλετε νομίσματα.</translation>
     </message>
     <message>
-        <source>These are your Faithcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Αυτές είναι οι Faithcoin διευθύνσεις σας για να λαμβάνετε πληρωμές. Προτείνετε να χρησιμοποιείτε μια νέα διεύθυνση παραλήπτη για κάθε συναλλαγή.</translation>
+        <source>These are your Bolagato addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Αυτές είναι οι Bolagato διευθύνσεις σας για να λαμβάνετε πληρωμές. Προτείνετε να χρησιμοποιείτε μια νέα διεύθυνση παραλήπτη για κάθε συναλλαγή.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -334,7 +334,7 @@
         <translation>Φόρτωση ευρετηρίου μπλοκ στον σκληρό δίσκο...</translation>
     </message>
     <message>
-        <source>Send coins to a Faithcoin address</source>
+        <source>Send coins to a Bolagato address</source>
         <translation>Στείλε νομίσματα σε μια διεύθυνση bolagato</translation>
     </message>
     <message>
@@ -358,8 +358,8 @@
         <translation>&amp;Επιβεβαίωση μηνύματος</translation>
     </message>
     <message>
-        <source>Faithcoin</source>
-        <translation>Faithcoin</translation>
+        <source>Bolagato</source>
+        <translation>Bolagato</translation>
     </message>
     <message>
         <source>&amp;Send</source>
@@ -382,12 +382,12 @@
         <translation>Κρυπτογραφήστε τα ιδιωτικά κλειδιά που ανήκουν στο πορτοφόλι σας </translation>
     </message>
     <message>
-        <source>Sign messages with your Faithcoin addresses to prove you own them</source>
+        <source>Sign messages with your Bolagato addresses to prove you own them</source>
         <translation>Υπογράψτε ένα μήνυμα για να βεβαιώσετε πως είστε ο κάτοχος αυτής της διεύθυνσης</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Faithcoin addresses</source>
-        <translation>Υπογράψτε ένα μήνυμα για ν' αποδείξετε πως ανήκει μια συγκεκριμένη διεύθυνση Faithcoin</translation>
+        <source>Verify messages to ensure they were signed with specified Bolagato addresses</source>
+        <translation>Υπογράψτε ένα μήνυμα για ν' αποδείξετε πως ανήκει μια συγκεκριμένη διεύθυνση Bolagato</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -676,8 +676,8 @@
         <translation> Επεξεργασία διεύθυνσης αποστολής</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Faithcoin address.</source>
-        <translation>Η διεύθυνση "%1" δεν είναι έγκυρη Faithcoin διεύθυνση.</translation>
+        <source>The entered address "%1" is not a valid Bolagato address.</source>
+        <translation>Η διεύθυνση "%1" δεν είναι έγκυρη Bolagato διεύθυνση.</translation>
     </message>
     <message>
         <source>Address "%1" already exists as a receiving address with label "%2" and so cannot be added as a sending address.</source>
@@ -753,8 +753,8 @@
         <translation>Προσαρμογή του φακέλου δεδομένων: </translation>
     </message>
     <message>
-        <source>Faithcoin</source>
-        <translation>Faithcoin</translation>
+        <source>Bolagato</source>
+        <translation>Bolagato</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -886,16 +886,16 @@
         <translation>&amp;Ξόδεμα μη επικυρωμένων ρέστων</translation>
     </message>
     <message>
-        <source>Automatically open the Faithcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Αυτόματο άνοιγμα των θυρών Faithcoin στον δρομολογητή. Λειτουργεί μόνο αν ο δρομολογητής σας υποστηρίζει τη λειτουργία UPnP.</translation>
+        <source>Automatically open the Bolagato client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Αυτόματο άνοιγμα των θυρών Bolagato στον δρομολογητή. Λειτουργεί μόνο αν ο δρομολογητής σας υποστηρίζει τη λειτουργία UPnP.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
         <translation>Απόδοση θυρών με χρήστη &amp;UPnP</translation>
     </message>
     <message>
-        <source>Connect to the Faithcoin network through a SOCKS5 proxy.</source>
-        <translation>Σύνδεση στο δίκτυο Faithcoin μέσω διαμεσολαβητή SOCKS5 (π.χ. για σύνδεση μέσω Tor)</translation>
+        <source>Connect to the Bolagato network through a SOCKS5 proxy.</source>
+        <translation>Σύνδεση στο δίκτυο Bolagato μέσω διαμεσολαβητή SOCKS5 (π.χ. για σύνδεση μέσω Tor)</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS5 proxy (default proxy):</source>
@@ -1005,8 +1005,8 @@
         <translation>Φόρμα</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Faithcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Οι πληροφορίες που εμφανίζονται μπορεί να είναι ξεπερασμένες. Το πορτοφόλι σας συγχρονίζεται αυτόματα με το δίκτυο Faithcoin μετά από μια σύνδεση, αλλά αυτή η διαδικασία δεν έχει ακόμη ολοκληρωθεί. </translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bolagato network after a connection is established, but this process has not completed yet.</source>
+        <translation>Οι πληροφορίες που εμφανίζονται μπορεί να είναι ξεπερασμένες. Το πορτοφόλι σας συγχρονίζεται αυτόματα με το δίκτυο Bolagato μετά από μια σύνδεση, αλλά αυτή η διαδικασία δεν έχει ακόμη ολοκληρωθεί. </translation>
     </message>
     <message>
         <source>Watch-only:</source>
@@ -1114,8 +1114,8 @@
         <translation>Ποσό</translation>
     </message>
     <message>
-        <source>Enter a Faithcoin address (e.g. %1)</source>
-        <translation>Εισάγετε μια διεύθυνση Faithcoin (π.χ. %1)</translation>
+        <source>Enter a Bolagato address (e.g. %1)</source>
+        <translation>Εισάγετε μια διεύθυνση Bolagato (π.χ. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1638,8 +1638,8 @@
         <translation>Αυτή είναι μια απλή πληρωμή.</translation>
     </message>
     <message>
-        <source>The Faithcoin address to send the payment to</source>
-        <translation>Η διεύθυνση Faithcoin που θα σταλεί η πληρωμή</translation>
+        <source>The Bolagato address to send the payment to</source>
+        <translation>Η διεύθυνση Bolagato που θα σταλεί η πληρωμή</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -1699,8 +1699,8 @@
         <translation>&amp;Υπογραφή Μηνύματος</translation>
     </message>
     <message>
-        <source>The Faithcoin address to sign the message with</source>
-        <translation>Διεύθυνση Faithcoin που θα σταλεί το μήνυμα</translation>
+        <source>The Bolagato address to sign the message with</source>
+        <translation>Διεύθυνση Bolagato που θα σταλεί το μήνυμα</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -1731,8 +1731,8 @@
         <translation>Αντιγραφή της επιλεγμένης υπογραφής στο πρόχειρο του συστήματος</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Faithcoin address</source>
-        <translation>Υπογράψτε το μήνυμα για να αποδείξετε πως σας ανήκει η συγκεκριμένη διεύθυνση Faithcoin</translation>
+        <source>Sign the message to prove you own this Bolagato address</source>
+        <translation>Υπογράψτε το μήνυμα για να αποδείξετε πως σας ανήκει η συγκεκριμένη διεύθυνση Bolagato</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -1751,12 +1751,12 @@
         <translation>&amp;Επιβεβαίωση Mηνύματος</translation>
     </message>
     <message>
-        <source>The Faithcoin address the message was signed with</source>
-        <translation>Διεύθυνση Faithcoin με την οποία έχει υπογραφεί το μήνυμα</translation>
+        <source>The Bolagato address the message was signed with</source>
+        <translation>Διεύθυνση Bolagato με την οποία έχει υπογραφεί το μήνυμα</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Faithcoin address</source>
-        <translation>Επαληθεύστε το μήνυμα για να αποδείξετε πως υπογράφθηκε από τη συγκεκριμένη διεύθυνση Faithcoin</translation>
+        <source>Verify the message to ensure it was signed with the specified Bolagato address</source>
+        <translation>Επαληθεύστε το μήνυμα για να αποδείξετε πως υπογράφθηκε από τη συγκεκριμένη διεύθυνση Bolagato</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -1967,8 +1967,8 @@
 <context>
     <name>bitcoin-core</name>
     <message>
-        <source>Faithcoin Core</source>
-        <translation>Faithcoin Core</translation>
+        <source>Bolagato Core</source>
+        <translation>Bolagato Core</translation>
     </message>
     <message>
         <source>Corrupted block database detected</source>

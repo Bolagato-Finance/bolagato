@@ -151,8 +151,8 @@
 <context>
     <name>BitcoinGUI</name>
     <message>
-        <source>Send coins to a Faithcoin address</source>
-        <translation>ផ្ញើកាក់ទៅកាន់ អាសយដ្ឋាន Faithcoin មួយ</translation>
+        <source>Send coins to a Bolagato address</source>
+        <translation>ផ្ញើកាក់ទៅកាន់ អាសយដ្ឋាន Bolagato មួយ</translation>
     </message>
     </context>
 <context>

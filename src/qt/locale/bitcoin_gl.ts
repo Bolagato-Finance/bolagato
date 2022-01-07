@@ -130,8 +130,8 @@
         <translation>Reindexando bloques no disco...</translation>
     </message>
     <message>
-        <source>Send coins to a Faithcoin address</source>
-        <translation>Enviar moedas a unha dirección Faithcoin</translation>
+        <source>Send coins to a Bolagato address</source>
+        <translation>Enviar moedas a unha dirección Bolagato</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -154,8 +154,8 @@
         <translation>&amp;Verificar mensaxe...</translation>
     </message>
     <message>
-        <source>Faithcoin</source>
-        <translation>Faithcoin</translation>
+        <source>Bolagato</source>
+        <translation>Bolagato</translation>
     </message>
     <message>
         <source>&amp;Send</source>
@@ -178,12 +178,12 @@
         <translation>Encriptar as claves privadas que pertencen ao teu moedeiro</translation>
     </message>
     <message>
-        <source>Sign messages with your Faithcoin addresses to prove you own them</source>
-        <translation>Asina mensaxes coas túas direccións Faithcoin para probar que te pertencen</translation>
+        <source>Sign messages with your Bolagato addresses to prove you own them</source>
+        <translation>Asina mensaxes coas túas direccións Bolagato para probar que te pertencen</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Faithcoin addresses</source>
-        <translation>Verificar mensaxes para asegurar que foron asinados con direccións Faithcoin dadas.</translation>
+        <source>Verify messages to ensure they were signed with specified Bolagato addresses</source>
+        <translation>Verificar mensaxes para asegurar que foron asinados con direccións Bolagato dadas.</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -397,8 +397,8 @@
         <translation>Empregar un directorio de datos personalizado</translation>
     </message>
     <message>
-        <source>Faithcoin</source>
-        <translation>Faithcoin</translation>
+        <source>Bolagato</source>
+        <translation>Bolagato</translation>
     </message>
     <message>
         <source>Error</source>
@@ -462,8 +462,8 @@
         <translation>Moedeiro</translation>
     </message>
     <message>
-        <source>Automatically open the Faithcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Abrir automáticamente o porto do cliente Faithcoin no router. Esto so funciona se o teu router soporta UPnP e está habilitado.</translation>
+        <source>Automatically open the Bolagato client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Abrir automáticamente o porto do cliente Bolagato no router. Esto so funciona se o teu router soporta UPnP e está habilitado.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -545,8 +545,8 @@
         <translation>Formulario</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Faithcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>A información amosada por estar desactualizada. O teu moedeiro sincronízase automáticamente coa rede Faithcoin despois de que se estableza unha conexión, pero este proceso non está todavía rematado.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bolagato network after a connection is established, but this process has not completed yet.</source>
+        <translation>A información amosada por estar desactualizada. O teu moedeiro sincronízase automáticamente coa rede Bolagato despois de que se estableza unha conexión, pero este proceso non está todavía rematado.</translation>
     </message>
     <message>
         <source>Your current spendable balance</source>
@@ -919,8 +919,8 @@
         <translation>Copiar a sinatura actual ao portapapeis do sistema</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Faithcoin address</source>
-        <translation>Asina a mensaxe para probar que posees esta dirección Faithcoin</translation>
+        <source>Sign the message to prove you own this Bolagato address</source>
+        <translation>Asina a mensaxe para probar que posees esta dirección Bolagato</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -939,8 +939,8 @@
         <translation>&amp;Verificar Mensaxe</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Faithcoin address</source>
-        <translation>Verificar a mensaxe para asegurar que foi asinada coa dirección Faithcoin especificada</translation>
+        <source>Verify the message to ensure it was signed with the specified Bolagato address</source>
+        <translation>Verificar a mensaxe para asegurar que foi asinada coa dirección Bolagato especificada</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -999,8 +999,8 @@
 <context>
     <name>bitcoin-core</name>
     <message>
-        <source>Faithcoin Core</source>
-        <translation>Core de Faithcoin</translation>
+        <source>Bolagato Core</source>
+        <translation>Core de Bolagato</translation>
     </message>
     <message>
         <source>Corrupted block database detected</source>

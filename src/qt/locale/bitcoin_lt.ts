@@ -66,12 +66,12 @@
         <translation>Gavimo adresai</translation>
     </message>
     <message>
-        <source>These are your Faithcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Tai yra jūsų Faithcoin adresai išeinantiems mokėjimams. Visada pasitikrinkite sumą ir gavėjo adresą prieš siunčiant lėšas. </translation>
+        <source>These are your Bolagato addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Tai yra jūsų Bolagato adresai išeinantiems mokėjimams. Visada pasitikrinkite sumą ir gavėjo adresą prieš siunčiant lėšas. </translation>
     </message>
     <message>
-        <source>These are your Faithcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Tai yra Jūsų Faithcoin adresai įeinantiems mokėjimams. Kiekvienam mokėjimui rekomenduojama naudoti naują adresą. </translation>
+        <source>These are your Bolagato addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Tai yra Jūsų Bolagato adresai įeinantiems mokėjimams. Kiekvienam mokėjimui rekomenduojama naudoti naują adresą. </translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -342,8 +342,8 @@
         <translation>Tarpinis serveris yra &lt;b&gt;įgalintas&lt;/b&gt;: %1</translation>
     </message>
     <message>
-        <source>Send coins to a Faithcoin address</source>
-        <translation>Siųsti monetas Faithcoin adresui</translation>
+        <source>Send coins to a Bolagato address</source>
+        <translation>Siųsti monetas Bolagato adresui</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -366,8 +366,8 @@
         <translation>&amp;Tikrinti žinutę...</translation>
     </message>
     <message>
-        <source>Faithcoin</source>
-        <translation>Faithcoin</translation>
+        <source>Bolagato</source>
+        <translation>Bolagato</translation>
     </message>
     <message>
         <source>&amp;Send</source>
@@ -390,12 +390,12 @@
         <translation>Užšifruoti privačius raktus, kurie priklauso jūsų piniginei</translation>
     </message>
     <message>
-        <source>Sign messages with your Faithcoin addresses to prove you own them</source>
-        <translation>Pasirašydami žinutes su savo Faithcoin adresais įrodysite jog esate jų savininkas </translation>
+        <source>Sign messages with your Bolagato addresses to prove you own them</source>
+        <translation>Pasirašydami žinutes su savo Bolagato adresais įrodysite jog esate jų savininkas </translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Faithcoin addresses</source>
-        <translation>Patikrinkite žinutę, jog įsitikintumėte, kad ją pasirašė nurodytas Faithcoin adresas</translation>
+        <source>Verify messages to ensure they were signed with specified Bolagato addresses</source>
+        <translation>Patikrinkite žinutę, jog įsitikintumėte, kad ją pasirašė nurodytas Bolagato adresas</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -434,8 +434,8 @@
         <translation>Komandinės eilutės parametrai</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Faithcoin network</source>
-        <translation><numerusform>%n Faithcoin tinklo aktyvus ryšys</numerusform><numerusform>%n Faithcoin tinklo aktyvūs ryšiai</numerusform><numerusform>%n Faithcoin tinklo aktyvūs ryšiai</numerusform><numerusform>%n Faithcoin tinklo aktyvūs ryšiai</numerusform></translation>
+        <source>%n active connection(s) to Bolagato network</source>
+        <translation><numerusform>%n Bolagato tinklo aktyvus ryšys</numerusform><numerusform>%n Bolagato tinklo aktyvūs ryšiai</numerusform><numerusform>%n Bolagato tinklo aktyvūs ryšiai</numerusform><numerusform>%n Bolagato tinklo aktyvūs ryšiai</numerusform></translation>
     </message>
     <message>
         <source>Indexing blocks on disk...</source>
@@ -502,8 +502,8 @@
         <translation>Uždaryti Piniginę</translation>
     </message>
     <message>
-        <source>Show the %1 help message to get a list with possible Faithcoin command-line options</source>
-        <translation>Rodyti %1 pagalbos žinutę su Faithcoin pasirinkimo komandomis</translation>
+        <source>Show the %1 help message to get a list with possible Bolagato command-line options</source>
+        <translation>Rodyti %1 pagalbos žinutę su Bolagato pasirinkimo komandomis</translation>
     </message>
     <message>
         <source>default wallet</source>
@@ -614,8 +614,8 @@
         <translation>Piniginė &lt;b&gt;užšifruota&lt;/b&gt; ir šiuo metu &lt;b&gt;užrakinta&lt;/b&gt;</translation>
     </message>
     <message>
-        <source>A fatal error occurred. Faithcoin can no longer continue safely and will quit.</source>
-        <translation>Kritinė klaida. Faithcoin nebegali tęsti saugiai ir bus išjungtas.</translation>
+        <source>A fatal error occurred. Bolagato can no longer continue safely and will quit.</source>
+        <translation>Kritinė klaida. Bolagato nebegali tęsti saugiai ir bus išjungtas.</translation>
     </message>
 </context>
 <context>
@@ -804,8 +804,8 @@
         <translation>Keisti siuntimo adresą</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Faithcoin address.</source>
-        <translation>Įvestas adresas „%1“ nėra galiojantis Faithcoin adresas.</translation>
+        <source>The entered address "%1" is not a valid Bolagato address.</source>
+        <translation>Įvestas adresas „%1“ nėra galiojantis Bolagato adresas.</translation>
     </message>
     <message>
         <source>Address "%1" already exists as a receiving address with label "%2" and so cannot be added as a sending address.</source>
@@ -901,8 +901,8 @@
         <translation>Naudoti kitą duomenų katalogą:</translation>
     </message>
     <message>
-        <source>Faithcoin</source>
-        <translation>Faithcoin</translation>
+        <source>Bolagato</source>
+        <translation>Bolagato</translation>
     </message>
     <message>
         <source>At least %1 GB of data will be stored in this directory, and it will grow over time.</source>
@@ -913,8 +913,8 @@
         <translation>Šiame kataloge bus saugoma maždaug apie %1 GB duomenų.</translation>
     </message>
     <message>
-        <source>%1 will download and store a copy of the Faithcoin block chain.</source>
-        <translation>%1 bus atsisiųsta ir išsaugota Faithcoin blokų grandinės kopiją.</translation>
+        <source>%1 will download and store a copy of the Bolagato block chain.</source>
+        <translation>%1 bus atsisiųsta ir išsaugota Bolagato blokų grandinės kopiją.</translation>
     </message>
     <message>
         <source>The wallet will also be stored in this directory.</source>
@@ -1126,8 +1126,8 @@
         <translation>&amp;Išleiskite nepatvirtintus pakeitimus</translation>
     </message>
     <message>
-        <source>Automatically open the Faithcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatiškai atidaryti Faithcoin kliento prievadą maršrutizatoriuje. Tai veikia tik tada, kai jūsų maršrutizatorius palaiko UPnP ir ji įjungta.</translation>
+        <source>Automatically open the Bolagato client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatiškai atidaryti Bolagato kliento prievadą maršrutizatoriuje. Tai veikia tik tada, kai jūsų maršrutizatorius palaiko UPnP ir ji įjungta.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -1142,8 +1142,8 @@
         <translation>Leisti gaunamu&amp;s ryšius</translation>
     </message>
     <message>
-        <source>Connect to the Faithcoin network through a SOCKS5 proxy.</source>
-        <translation>Prisijunkite prie „Faithcoin“ tinklo per SOCKS5 proxy.</translation>
+        <source>Connect to the Bolagato network through a SOCKS5 proxy.</source>
+        <translation>Prisijunkite prie „Bolagato“ tinklo per SOCKS5 proxy.</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS5 proxy (default proxy):</source>
@@ -1178,8 +1178,8 @@
         <translation>Tor</translation>
     </message>
     <message>
-        <source>Connect to the Faithcoin network through a separate SOCKS5 proxy for Tor hidden services.</source>
-        <translation>Prisijunkite prie „Faithcoin“ tinklo per atskirą „SOCKS5“ proxy „Tor“ paslėptas paslaugas.</translation>
+        <source>Connect to the Bolagato network through a separate SOCKS5 proxy for Tor hidden services.</source>
+        <translation>Prisijunkite prie „Bolagato“ tinklo per atskirą „SOCKS5“ proxy „Tor“ paslėptas paslaugas.</translation>
     </message>
     <message>
         <source>&amp;Window</source>
@@ -1289,8 +1289,8 @@
         <translation>Forma</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Faithcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Rodoma informacija gali būti pasenusi. Piniginė automatiškai sinchronizuojasi su „Faithcoin“ tinklu po ryšio užmezgimo, tačiau šis procesas dar nebaigtas.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bolagato network after a connection is established, but this process has not completed yet.</source>
+        <translation>Rodoma informacija gali būti pasenusi. Piniginė automatiškai sinchronizuojasi su „Bolagato“ tinklu po ryšio užmezgimo, tačiau šis procesas dar nebaigtas.</translation>
     </message>
     <message>
         <source>Watch-only:</source>
@@ -1392,8 +1392,8 @@
         <translation>Neteisingas mokėjimo adresas %1</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid Faithcoin address or malformed URI parameters.</source>
-        <translation>URI negalima perskaityti! Tai gali sukelti negaliojantys „Faithcoin“ adresas arba netinkami URI parametrai.</translation>
+        <source>URI cannot be parsed! This can be caused by an invalid Bolagato address or malformed URI parameters.</source>
+        <translation>URI negalima perskaityti! Tai gali sukelti negaliojantys „Bolagato“ adresas arba netinkami URI parametrai.</translation>
     </message>
     <message>
         <source>Payment request file handling</source>
@@ -1494,8 +1494,8 @@
         <translation>Suma</translation>
     </message>
     <message>
-        <source>Enter a Faithcoin address (e.g. %1)</source>
-        <translation>Įveskite Faithcoin adresą (pvz., %1)</translation>
+        <source>Enter a Bolagato address (e.g. %1)</source>
+        <translation>Įveskite Bolagato adresą (pvz., %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1946,8 +1946,8 @@
         <translation>Žinutė:</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Faithcoin network.</source>
-        <translation>Neprivalomas pranešimas, pridedamas prie mokėjimo prašymo, kuris bus rodomas atidarius užklausą. Pastaba: pranešimas nebus išsiųstas su mokėjimu per „Faithcoin“ tinklą.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Bolagato network.</source>
+        <translation>Neprivalomas pranešimas, pridedamas prie mokėjimo prašymo, kuris bus rodomas atidarius užklausą. Pastaba: pranešimas nebus išsiųstas su mokėjimu per „Bolagato“ tinklą.</translation>
     </message>
     <message>
         <source>An optional label to associate with the new receiving address.</source>
@@ -2371,8 +2371,8 @@ Pastaba: Kadangi mokestis apskaičiuojamas pagal baitą, mokestis už „100 sat
         <translation><numerusform>Apskaičiuota, kad bus pradėtas patvirtinimas per %n bloką.</numerusform><numerusform>Apskaičiuota, kad bus pradėtas patvirtinimas per %n blokus.</numerusform><numerusform>Apskaičiuota, kad bus pradėtas patvirtinimas per %n blokus.</numerusform><numerusform>Apskaičiuota, kad bus pradėtas patvirtinimas per %n blokus.</numerusform></translation>
     </message>
     <message>
-        <source>Warning: Invalid Faithcoin address</source>
-        <translation>Įspėjimas: neteisingas Faithcoin adresas</translation>
+        <source>Warning: Invalid Bolagato address</source>
+        <translation>Įspėjimas: neteisingas Bolagato adresas</translation>
     </message>
     <message>
         <source>Warning: Unknown change address</source>
@@ -2414,8 +2414,8 @@ Pastaba: Kadangi mokestis apskaičiuojamas pagal baitą, mokestis už „100 sat
         <translation>Tai įprastas mokėjimas.</translation>
     </message>
     <message>
-        <source>The Faithcoin address to send the payment to</source>
-        <translation>Faithcoin adresas, į kurį siunčiamas mokėjimas</translation>
+        <source>The Bolagato address to send the payment to</source>
+        <translation>Bolagato adresas, į kurį siunčiamas mokėjimas</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -2462,8 +2462,8 @@ Pastaba: Kadangi mokestis apskaičiuojamas pagal baitą, mokestis už „100 sat
         <translation>Įveskite šio adreso etiketę, kad ją pridėtumėte prie naudojamų adresų sąrašo</translation>
     </message>
     <message>
-        <source>A message that was attached to the bolagato: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Faithcoin network.</source>
-        <translation>Pranešimas, kuris buvo pridėtas prie bolagato: URI, kuris bus saugomas kartu su sandoriu jūsų nuoroda. Pastaba: šis pranešimas nebus išsiųstas per „Faithcoin“ tinklą.</translation>
+        <source>A message that was attached to the bolagato: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Bolagato network.</source>
+        <translation>Pranešimas, kuris buvo pridėtas prie bolagato: URI, kuris bus saugomas kartu su sandoriu jūsų nuoroda. Pastaba: šis pranešimas nebus išsiųstas per „Bolagato“ tinklą.</translation>
     </message>
     <message>
         <source>Pay To:</source>
@@ -2507,8 +2507,8 @@ Pastaba: Kadangi mokestis apskaičiuojamas pagal baitą, mokestis už „100 sat
         <translation>&amp;Pasirašyti žinutę</translation>
     </message>
     <message>
-        <source>The Faithcoin address to sign the message with</source>
-        <translation>Faithcoin adresas, kuriuo bus pasirašytas pranešimas su</translation>
+        <source>The Bolagato address to sign the message with</source>
+        <translation>Bolagato adresas, kuriuo bus pasirašytas pranešimas su</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2539,7 +2539,7 @@ Pastaba: Kadangi mokestis apskaičiuojamas pagal baitą, mokestis už „100 sat
         <translation>Nukopijuokite dabartinį parašą į sistemos iškarpinę</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Faithcoin address</source>
+        <source>Sign the message to prove you own this Bolagato address</source>
         <translation>Registruotis žinute įrodymuii, kad turite šį adresą</translation>
     </message>
     <message>
@@ -2559,12 +2559,12 @@ Pastaba: Kadangi mokestis apskaičiuojamas pagal baitą, mokestis už „100 sat
         <translation>&amp;Patikrinti žinutę</translation>
     </message>
     <message>
-        <source>The Faithcoin address the message was signed with</source>
-        <translation>Faithcoin adresas, kuriuo buvo pasirašytas pranešimas</translation>
+        <source>The Bolagato address the message was signed with</source>
+        <translation>Bolagato adresas, kuriuo buvo pasirašytas pranešimas</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Faithcoin address</source>
-        <translation>Patikrinkite žinutę, jog įsitikintumėte, kad ją pasirašė nurodytas Faithcoin adresas</translation>
+        <source>Verify the message to ensure it was signed with the specified Bolagato address</source>
+        <translation>Patikrinkite žinutę, jog įsitikintumėte, kad ją pasirašė nurodytas Bolagato adresas</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -3167,8 +3167,8 @@ Pastaba: Kadangi mokestis apskaičiuojamas pagal baitą, mokestis už „100 sat
 <context>
     <name>bitcoin-core</name>
     <message>
-        <source>Faithcoin Core</source>
-        <translation>Faithcoin branduolys</translation>
+        <source>Bolagato Core</source>
+        <translation>Bolagato branduolys</translation>
     </message>
     <message>
         <source>The %s developers</source>

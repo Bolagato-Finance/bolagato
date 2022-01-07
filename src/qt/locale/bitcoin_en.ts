@@ -85,12 +85,12 @@
     </message>
     <message>
         <location line="+7"/>
-        <source>These are your Faithcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your Bolagato addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+5"/>
-        <source>These are your Faithcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <source>These are your Bolagato addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -436,8 +436,8 @@
     </message>
     <message>
         <location line="-1034"/>
-        <source>Send coins to a Faithcoin address</source>
-        <translation>Send coins to a Faithcoin address</translation>
+        <source>Send coins to a Bolagato address</source>
+        <translation>Send coins to a Bolagato address</translation>
     </message>
     <message>
         <location line="+67"/>
@@ -466,8 +466,8 @@
     </message>
     <message>
         <location line="+724"/>
-        <source>Faithcoin</source>
-        <translation>Faithcoin</translation>
+        <source>Bolagato</source>
+        <translation>Bolagato</translation>
     </message>
     <message>
         <location line="-797"/>
@@ -496,13 +496,13 @@
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your Faithcoin addresses to prove you own them</source>
-        <translation>Sign messages with your Faithcoin addresses to prove you own them</translation>
+        <source>Sign messages with your Bolagato addresses to prove you own them</source>
+        <translation>Sign messages with your Bolagato addresses to prove you own them</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified Faithcoin addresses</source>
-        <translation>Verify messages to ensure they were signed with specified Faithcoin addresses</translation>
+        <source>Verify messages to ensure they were signed with specified Bolagato addresses</source>
+        <translation>Verify messages to ensure they were signed with specified Bolagato addresses</translation>
     </message>
     <message>
         <location line="+118"/>
@@ -551,10 +551,10 @@
     </message>
     <message numerus="yes">
         <location line="+540"/>
-        <source>%n active connection(s) to Faithcoin network</source>
+        <source>%n active connection(s) to Bolagato network</source>
         <translation>
-            <numerusform>%n active connection to Faithcoin network</numerusform>
-            <numerusform>%n active connections to Faithcoin network</numerusform>
+            <numerusform>%n active connection to Bolagato network</numerusform>
+            <numerusform>%n active connections to Bolagato network</numerusform>
         </translation>
     </message>
     <message>
@@ -642,7 +642,7 @@
     </message>
     <message>
         <location line="+4"/>
-        <source>Show the %1 help message to get a list with possible Faithcoin command-line options</source>
+        <source>Show the %1 help message to get a list with possible Bolagato command-line options</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -778,7 +778,7 @@
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+392"/>
-        <source>A fatal error occurred. Faithcoin can no longer continue safely and will quit.</source>
+        <source>A fatal error occurred. Bolagato can no longer continue safely and will quit.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1016,7 +1016,7 @@
     </message>
     <message>
         <location line="+75"/>
-        <source>The entered address &quot;%1&quot; is not a valid Faithcoin address.</source>
+        <source>The entered address &quot;%1&quot; is not a valid Bolagato address.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1136,8 +1136,8 @@
     </message>
     <message>
         <location filename="../intro.cpp" line="+22"/>
-        <source>Faithcoin</source>
-        <translation type="unfinished">Faithcoin</translation>
+        <source>Bolagato</source>
+        <translation type="unfinished">Bolagato</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -1151,7 +1151,7 @@
     </message>
     <message>
         <location line="+8"/>
-        <source>%1 will download and store a copy of the Faithcoin block chain.</source>
+        <source>%1 will download and store a copy of the Bolagato block chain.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1433,8 +1433,8 @@
     </message>
     <message>
         <location line="+30"/>
-        <source>Automatically open the Faithcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatically open the Faithcoin client port on the router. This only works when your router supports UPnP and it is enabled.</translation>
+        <source>Automatically open the Bolagato client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatically open the Bolagato client port on the router. This only works when your router supports UPnP and it is enabled.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1453,7 +1453,7 @@
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Faithcoin network through a SOCKS5 proxy.</source>
+        <source>Connect to the Bolagato network through a SOCKS5 proxy.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1501,7 +1501,7 @@
     </message>
     <message>
         <location line="+25"/>
-        <source>Connect to the Faithcoin network through a separate SOCKS5 proxy for Tor hidden services.</source>
+        <source>Connect to the Bolagato network through a separate SOCKS5 proxy for Tor hidden services.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1641,8 +1641,8 @@
     <message>
         <location line="+62"/>
         <location line="+386"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Faithcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>The displayed information may be out of date. Your wallet automatically synchronizes with the Faithcoin network after a connection is established, but this process has not completed yet.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bolagato network after a connection is established, but this process has not completed yet.</source>
+        <translation>The displayed information may be out of date. Your wallet automatically synchronizes with the Bolagato network after a connection is established, but this process has not completed yet.</translation>
     </message>
     <message>
         <location line="-139"/>
@@ -1780,7 +1780,7 @@
     </message>
     <message>
         <location line="+8"/>
-        <source>URI cannot be parsed! This can be caused by an invalid Faithcoin address or malformed URI parameters.</source>
+        <source>URI cannot be parsed! This can be caused by an invalid Bolagato address or malformed URI parameters.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1913,7 +1913,7 @@
     </message>
     <message>
         <location filename="../guiutil.cpp" line="+108"/>
-        <source>Enter a Faithcoin address (e.g. %1)</source>
+        <source>Enter a Bolagato address (e.g. %1)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2540,7 +2540,7 @@
     <message>
         <location line="-3"/>
         <location line="+46"/>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Faithcoin network.</source>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Bolagato network.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3080,7 +3080,7 @@ Note:  Since the fee is calculated on a per-byte basis, a fee of &quot;100 satos
     </message>
     <message>
         <location line="+101"/>
-        <source>Warning: Invalid Faithcoin address</source>
+        <source>Warning: Invalid Bolagato address</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3135,7 +3135,7 @@ Note:  Since the fee is calculated on a per-byte basis, a fee of &quot;100 satos
     </message>
     <message>
         <location line="+39"/>
-        <source>The Faithcoin address to send the payment to</source>
+        <source>The Bolagato address to send the payment to</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3197,7 +3197,7 @@ Note:  Since the fee is calculated on a per-byte basis, a fee of &quot;100 satos
     </message>
     <message>
         <location line="+54"/>
-        <source>A message that was attached to the bolagato: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Faithcoin network.</source>
+        <source>A message that was attached to the bolagato: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Bolagato network.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3259,7 +3259,7 @@ Note:  Since the fee is calculated on a per-byte basis, a fee of &quot;100 satos
     </message>
     <message>
         <location line="+18"/>
-        <source>The Faithcoin address to sign the message with</source>
+        <source>The Bolagato address to sign the message with</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3301,8 +3301,8 @@ Note:  Since the fee is calculated on a per-byte basis, a fee of &quot;100 satos
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Faithcoin address</source>
-        <translation>Sign the message to prove you own this Faithcoin address</translation>
+        <source>Sign the message to prove you own this Bolagato address</source>
+        <translation>Sign the message to prove you own this Bolagato address</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -3332,13 +3332,13 @@ Note:  Since the fee is calculated on a per-byte basis, a fee of &quot;100 satos
     </message>
     <message>
         <location line="+21"/>
-        <source>The Faithcoin address the message was signed with</source>
+        <source>The Bolagato address the message was signed with</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+37"/>
-        <source>Verify the message to ensure it was signed with the specified Faithcoin address</source>
-        <translation>Verify the message to ensure it was signed with the specified Faithcoin address</translation>
+        <source>Verify the message to ensure it was signed with the specified Bolagato address</source>
+        <translation>Verify the message to ensure it was signed with the specified Bolagato address</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -4195,8 +4195,8 @@ Note:  Since the fee is calculated on a per-byte basis, a fee of &quot;100 satos
     </message>
     <message>
         <location line="-170"/>
-        <source>Faithcoin Core</source>
-        <translation type="unfinished">Faithcoin Core</translation>
+        <source>Bolagato Core</source>
+        <translation type="unfinished">Bolagato Core</translation>
     </message>
     <message>
         <location line="+1"/>

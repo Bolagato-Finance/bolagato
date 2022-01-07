@@ -16,8 +16,8 @@ BEGIN
     BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
-            VALUE "CompanyName",        "Faithcoin"
-            VALUE "FileDescription",    "bolagato-tx (CLI Faithcoin transaction editor utility)"
+            VALUE "CompanyName",        "Bolagato"
+            VALUE "FileDescription",    "bolagato-tx (CLI Bolagato transaction editor utility)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
             VALUE "InternalName",       "bolagato-tx"
             VALUE "LegalCopyright",     COPYRIGHT_STR

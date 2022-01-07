@@ -90,8 +90,8 @@
         <translation>Vhura &amp;URI</translation>
     </message>
     <message>
-        <source>Faithcoin</source>
-        <translation>Faithcoin</translation>
+        <source>Bolagato</source>
+        <translation>Bolagato</translation>
     </message>
     <message>
         <source>&amp;Send</source>
@@ -153,8 +153,8 @@
 <context>
     <name>Intro</name>
     <message>
-        <source>Faithcoin</source>
-        <translation>Faithcoin</translation>
+        <source>Bolagato</source>
+        <translation>Bolagato</translation>
     </message>
     </context>
 <context>
@@ -182,8 +182,8 @@
         <translation>Marii </translation>
     </message>
     <message>
-        <source>Enter a Faithcoin address (e.g. %1)</source>
-        <translation>Nyora kero ye Faithcoin (sekuti %1)</translation>
+        <source>Enter a Bolagato address (e.g. %1)</source>
+        <translation>Nyora kero ye Bolagato (sekuti %1)</translation>
     </message>
     <message>
         <source>%1 d</source>

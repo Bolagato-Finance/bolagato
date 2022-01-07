@@ -66,12 +66,12 @@
         <translation>Vastuvõtvad aadressid</translation>
     </message>
     <message>
-        <source>These are your Faithcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Need on sinu Faithcoin aadressid maksete saatmiseks. Ennem müntide saatmist kontrolli alati summat ja makse saaja aadressi.</translation>
+        <source>These are your Bolagato addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Need on sinu Bolagato aadressid maksete saatmiseks. Ennem müntide saatmist kontrolli alati summat ja makse saaja aadressi.</translation>
     </message>
     <message>
-        <source>These are your Faithcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Need on sinu Faithcoin aadressid sisenevate maksete vastu võtmiseks. Soovitav on iga tehingu tarbeks kasutada uut aadressi.</translation>
+        <source>These are your Bolagato addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Need on sinu Bolagato aadressid sisenevate maksete vastu võtmiseks. Soovitav on iga tehingu tarbeks kasutada uut aadressi.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -294,8 +294,8 @@
         <translation>Kettal olevate blokkide re-indekseerimine...</translation>
     </message>
     <message>
-        <source>Send coins to a Faithcoin address</source>
-        <translation>Saada münte Faithcoini aadressile</translation>
+        <source>Send coins to a Bolagato address</source>
+        <translation>Saada münte Bolagatoi aadressile</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -318,8 +318,8 @@
         <translation>&amp;Kontrolli sõnumit...</translation>
     </message>
     <message>
-        <source>Faithcoin</source>
-        <translation>Faithcoin</translation>
+        <source>Bolagato</source>
+        <translation>Bolagato</translation>
     </message>
     <message>
         <source>&amp;Send</source>
@@ -342,12 +342,12 @@
         <translation>Krüpteeri oma rahakoti privaatvõtmed</translation>
     </message>
     <message>
-        <source>Sign messages with your Faithcoin addresses to prove you own them</source>
-        <translation>Omandi tõestamiseks allkirjasta sõnumid oma Faithcoini aadressiga</translation>
+        <source>Sign messages with your Bolagato addresses to prove you own them</source>
+        <translation>Omandi tõestamiseks allkirjasta sõnumid oma Bolagatoi aadressiga</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Faithcoin addresses</source>
-        <translation>Kinnita sõnumid kindlustamaks et need allkirjastati määratud Faithcoini aadressiga</translation>
+        <source>Verify messages to ensure they were signed with specified Bolagato addresses</source>
+        <translation>Kinnita sõnumid kindlustamaks et need allkirjastati määratud Bolagatoi aadressiga</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -378,8 +378,8 @@
         <translation>Käsurea valikud</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Faithcoin network</source>
-        <translation><numerusform>%n aktiivne ühendus Faithcoini võrku</numerusform><numerusform>%n aktiivset ühendust Faithcoini võrku</numerusform></translation>
+        <source>%n active connection(s) to Bolagato network</source>
+        <translation><numerusform>%n aktiivne ühendus Bolagatoi võrku</numerusform><numerusform>%n aktiivset ühendust Bolagatoi võrku</numerusform></translation>
     </message>
     <message>
         <source>Indexing blocks on disk...</source>
@@ -626,8 +626,8 @@
         <translation>Muuda saatvat aadressi</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Faithcoin address.</source>
-        <translation>Sisestatud aadress "%1" ei ole korrektne Faithcoin aadress.</translation>
+        <source>The entered address "%1" is not a valid Bolagato address.</source>
+        <translation>Sisestatud aadress "%1" ei ole korrektne Bolagato aadress.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -663,8 +663,8 @@
         <translation>Teretulemast</translation>
     </message>
     <message>
-        <source>Faithcoin</source>
-        <translation>Faithcoin</translation>
+        <source>Bolagato</source>
+        <translation>Bolagato</translation>
     </message>
     <message>
         <source>Error</source>
@@ -736,8 +736,8 @@
         <translation>Ekspert</translation>
     </message>
     <message>
-        <source>Automatically open the Faithcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Faithcoini kliendi pordi automaatne avamine ruuteris. Toimib, kui sinu ruuter aktsepteerib UPnP ühendust.</translation>
+        <source>Automatically open the Bolagato client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Bolagatoi kliendi pordi automaatne avamine ruuteris. Toimib, kui sinu ruuter aktsepteerib UPnP ühendust.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -835,7 +835,7 @@
         <translation>Vorm</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Faithcoin network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bolagato network after a connection is established, but this process has not completed yet.</source>
         <translation>Kuvatav info ei pruugi olla ajakohane. Ühenduse loomisel süngitakse sinu rahakott automaatselt Liteconi võrgustikuga, kuid see toiming on hetkel lõpetamata.</translation>
     </message>
     <message>
@@ -1341,8 +1341,8 @@
         <translation>Maksepäring aegunud.</translation>
     </message>
     <message>
-        <source>Warning: Invalid Faithcoin address</source>
-        <translation>Hoiatus: Ebakorrektne Faithcoin aadress</translation>
+        <source>Warning: Invalid Bolagato address</source>
+        <translation>Hoiatus: Ebakorrektne Bolagato aadress</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -1425,8 +1425,8 @@
         <translation>&amp;Allkirjastamise teade</translation>
     </message>
     <message>
-        <source>The Faithcoin address to sign the message with</source>
-        <translation>Faithcoin aadress millega sõnum allkirjastada</translation>
+        <source>The Bolagato address to sign the message with</source>
+        <translation>Bolagato aadress millega sõnum allkirjastada</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -1457,8 +1457,8 @@
         <translation>Kopeeri praegune signatuur vahemällu</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Faithcoin address</source>
-        <translation>Allkirjasta sõnum Faithcoini aadressi sulle kuulumise tõestamiseks</translation>
+        <source>Sign the message to prove you own this Bolagato address</source>
+        <translation>Allkirjasta sõnum Bolagatoi aadressi sulle kuulumise tõestamiseks</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -1477,12 +1477,12 @@
         <translation>&amp;Kinnita Sõnum</translation>
     </message>
     <message>
-        <source>The Faithcoin address the message was signed with</source>
-        <translation>Faithcoin aadress millega sõnum on allkirjastatud</translation>
+        <source>The Bolagato address the message was signed with</source>
+        <translation>Bolagato aadress millega sõnum on allkirjastatud</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Faithcoin address</source>
-        <translation>Kinnita sõnum tõestamaks selle allkirjastatust määratud Faithcoini aadressiga.</translation>
+        <source>Verify the message to ensure it was signed with the specified Bolagato address</source>
+        <translation>Kinnita sõnum tõestamaks selle allkirjastatust määratud Bolagatoi aadressiga.</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -1917,8 +1917,8 @@
 <context>
     <name>bitcoin-core</name>
     <message>
-        <source>Faithcoin Core</source>
-        <translation>Faithcoini tuumik</translation>
+        <source>Bolagato Core</source>
+        <translation>Bolagatoi tuumik</translation>
     </message>
     <message>
         <source>This is a pre-release test build - use at your own risk - do not use for mining or merchant applications</source>

@@ -66,12 +66,12 @@
         <translation>Получаване на адреси</translation>
     </message>
     <message>
-        <source>These are your Faithcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your Bolagato addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation>Това са адресите на получателите на плащания. Винаги проверявайте размера на сумата и адреса на получателя, преди да изпратите монети.</translation>
     </message>
     <message>
-        <source>These are your Faithcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Това са Вашите Faithcoin адреси,благодарение на които ще получавате плащания.Препоръчително е да използвате нови адреси за получаване на всяка транзакция.</translation>
+        <source>These are your Bolagato addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Това са Вашите Bolagato адреси,благодарение на които ще получавате плащания.Препоръчително е да използвате нови адреси за получаване на всяка транзакция.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -334,7 +334,7 @@
         <translation>Повторно индексиране на блоковете на диска...</translation>
     </message>
     <message>
-        <source>Send coins to a Faithcoin address</source>
+        <source>Send coins to a Bolagato address</source>
         <translation>Изпращане към Биткоин адрес</translation>
     </message>
     <message>
@@ -358,7 +358,7 @@
         <translation>&amp;Проверка на съобщение...</translation>
     </message>
     <message>
-        <source>Faithcoin</source>
+        <source>Bolagato</source>
         <translation>Биткоин</translation>
     </message>
     <message>
@@ -382,12 +382,12 @@
         <translation>Шифроване на личните ключове,които принадлежат на портфейла Ви.</translation>
     </message>
     <message>
-        <source>Sign messages with your Faithcoin addresses to prove you own them</source>
-        <translation>Пишете съобщения със своя Faithcoin адрес за да докажете,че е ваш.</translation>
+        <source>Sign messages with your Bolagato addresses to prove you own them</source>
+        <translation>Пишете съобщения със своя Bolagato адрес за да докажете,че е ваш.</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Faithcoin addresses</source>
-        <translation>Потвърждаване на съобщения  за да се знае,че са написани с дадените Faithcoin адреси.</translation>
+        <source>Verify messages to ensure they were signed with specified Bolagato addresses</source>
+        <translation>Потвърждаване на съобщения  за да се знае,че са написани с дадените Bolagato адреси.</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -407,7 +407,7 @@
     </message>
     <message>
         <source>Request payments (generates QR codes and bolagato: URIs)</source>
-        <translation>Изискване на плащания(генерира QR кодове и Faithcoin: URIs)</translation>
+        <translation>Изискване на плащания(генерира QR кодове и Bolagato: URIs)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -419,7 +419,7 @@
     </message>
     <message>
         <source>Open a bolagato: URI or payment request</source>
-        <translation>Отворете Faithcoin: URI  или заявка за плащане</translation>
+        <translation>Отворете Bolagato: URI  или заявка за плащане</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -462,8 +462,8 @@
         <translation>Синхронизиран</translation>
     </message>
     <message>
-        <source>Show the %1 help message to get a list with possible Faithcoin command-line options</source>
-        <translation>Покажи %1 помощно съобщение за да получиш лист с възможни Faithcoin команди</translation>
+        <source>Show the %1 help message to get a list with possible Bolagato command-line options</source>
+        <translation>Покажи %1 помощно съобщение за да получиш лист с възможни Bolagato команди</translation>
     </message>
     <message>
         <source>default wallet</source>
@@ -536,8 +536,8 @@
         <translation>Портфейлът е &lt;b&gt;криптиран&lt;/b&gt; и &lt;b&gt;заключен&lt;/b&gt;</translation>
     </message>
     <message>
-        <source>A fatal error occurred. Faithcoin can no longer continue safely and will quit.</source>
-        <translation>Възникна фатална грешка. Faithcoin не може да продължи безопасно и ще се изключи.</translation>
+        <source>A fatal error occurred. Bolagato can no longer continue safely and will quit.</source>
+        <translation>Възникна фатална грешка. Bolagato не може да продължи безопасно и ще се изключи.</translation>
     </message>
 </context>
 <context>
@@ -718,7 +718,7 @@
         <translation>Редактиране на адрес за изпращане</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Faithcoin address.</source>
+        <source>The entered address "%1" is not a valid Bolagato address.</source>
         <translation>"%1" не е валиден Биткоин адрес.</translation>
     </message>
     <message>
@@ -795,7 +795,7 @@
         <translation>Използване на директория ръчно</translation>
     </message>
     <message>
-        <source>Faithcoin</source>
+        <source>Bolagato</source>
         <translation>Биткоин</translation>
     </message>
     <message>
@@ -900,8 +900,8 @@
         <translation>&amp;Похарчете непотвърденото ресто</translation>
     </message>
     <message>
-        <source>Automatically open the Faithcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Автоматично отваряне на входящия Faithcoin порт. Работи само с рутери поддържащи UPnP.</translation>
+        <source>Automatically open the Bolagato client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Автоматично отваряне на входящия Bolagato порт. Работи само с рутери поддържащи UPnP.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -916,8 +916,8 @@
         <translation>Позволи входящи връзки</translation>
     </message>
     <message>
-        <source>Connect to the Faithcoin network through a SOCKS5 proxy.</source>
-        <translation>Свързване с Faithcoin мрежата чрез SOCKS5  прокси.</translation>
+        <source>Connect to the Bolagato network through a SOCKS5 proxy.</source>
+        <translation>Свързване с Bolagato мрежата чрез SOCKS5  прокси.</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS5 proxy (default proxy):</source>
@@ -1023,7 +1023,7 @@
         <translation>Формуляр</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Faithcoin network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bolagato network after a connection is established, but this process has not completed yet.</source>
         <translation>Текущата информация на екрана може да не е актуална. Вашият портфейл ще се синхронизира автоматично с мрежата на Биткоин, щом поне една връзката с нея се установи; този процес все още не е приключил.</translation>
     </message>
     <message>
@@ -1079,7 +1079,7 @@
     </message>
     <message>
         <source>Cannot start bolagato: click-to-pay handler</source>
-        <translation>Faithcoin не можe да се стартира: click-to-pay handler</translation>
+        <translation>Bolagato не можe да се стартира: click-to-pay handler</translation>
     </message>
     <message>
         <source>URI handling</source>
@@ -1160,8 +1160,8 @@
         <translation>Сума</translation>
     </message>
     <message>
-        <source>Enter a Faithcoin address (e.g. %1)</source>
-        <translation>Въведете Faithcoin адрес (например: %1)</translation>
+        <source>Enter a Bolagato address (e.g. %1)</source>
+        <translation>Въведете Bolagato адрес (например: %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1701,8 +1701,8 @@
         <translation>Заявката за плащане е изтекла.</translation>
     </message>
     <message>
-        <source>Warning: Invalid Faithcoin address</source>
-        <translation>Внимание: Невалиден Faithcoin адрес</translation>
+        <source>Warning: Invalid Bolagato address</source>
+        <translation>Внимание: Невалиден Bolagato адрес</translation>
     </message>
     <message>
         <source>Warning: Unknown change address</source>
@@ -1821,7 +1821,7 @@
         <translation>Копиране на текущия подпис</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Faithcoin address</source>
+        <source>Sign the message to prove you own this Bolagato address</source>
         <translation>Подпишете съобщение като доказателство, че притежавате определен адрес</translation>
     </message>
     <message>
@@ -1837,7 +1837,7 @@
         <translation>&amp;Провери</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Faithcoin address</source>
+        <source>Verify the message to ensure it was signed with the specified Bolagato address</source>
         <translation>Проверете съобщение, за да сте сигурни че е подписано с определен Биткоин адрес</translation>
     </message>
     <message>
@@ -2329,8 +2329,8 @@
 <context>
     <name>bitcoin-core</name>
     <message>
-        <source>Faithcoin Core</source>
-        <translation>Faithcoin ядро</translation>
+        <source>Bolagato Core</source>
+        <translation>Bolagato ядро</translation>
     </message>
     <message>
         <source>Do you want to rebuild the block database now?</source>

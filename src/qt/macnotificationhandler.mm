@@ -13,7 +13,7 @@
 - (NSString *)__bundleIdentifier
 {
     if (self == [NSBundle mainBundle]) {
-        return @"org.bolagato.Faithcoin-Qt";
+        return @"org.bolagato.Bolagato-Qt";
     } else {
         return [self __bundleIdentifier];
     }

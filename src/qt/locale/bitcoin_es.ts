@@ -66,12 +66,12 @@
         <translation>Direcciones de recepción</translation>
     </message>
     <message>
-        <source>These are your Faithcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Estas son sus direcciones Faithcoin para enviar pagos. Verifique siempre la cantidad y la dirección de recepción antes de enviar bolagatos.</translation>
+        <source>These are your Bolagato addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Estas son sus direcciones Bolagato para enviar pagos. Verifique siempre la cantidad y la dirección de recepción antes de enviar bolagatos.</translation>
     </message>
     <message>
-        <source>These are your Faithcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Estas son sus direcciones Faithcoin para recibir pagos. Se recomienda utilizar una nueva dirección de recepción para cada transacción</translation>
+        <source>These are your Bolagato addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Estas son sus direcciones Bolagato para recibir pagos. Se recomienda utilizar una nueva dirección de recepción para cada transacción</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -342,8 +342,8 @@
         <translation>Proxy está&lt;b&gt;habilitado&lt;/b&gt;: %1</translation>
     </message>
     <message>
-        <source>Send coins to a Faithcoin address</source>
-        <translation>Enviar bolagatos a una dirección Faithcoin</translation>
+        <source>Send coins to a Bolagato address</source>
+        <translation>Enviar bolagatos a una dirección Bolagato</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -366,8 +366,8 @@
         <translation>&amp;Verificar mensaje...</translation>
     </message>
     <message>
-        <source>Faithcoin</source>
-        <translation>Faithcoin</translation>
+        <source>Bolagato</source>
+        <translation>Bolagato</translation>
     </message>
     <message>
         <source>&amp;Send</source>
@@ -390,12 +390,12 @@
         <translation>Cifrar las claves privadas de su monedero</translation>
     </message>
     <message>
-        <source>Sign messages with your Faithcoin addresses to prove you own them</source>
-        <translation>Firmar mensajes con sus direcciones Faithcoin para demostrar la propiedad</translation>
+        <source>Sign messages with your Bolagato addresses to prove you own them</source>
+        <translation>Firmar mensajes con sus direcciones Bolagato para demostrar la propiedad</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Faithcoin addresses</source>
-        <translation>Verificar mensajes comprobando que están firmados con direcciones Faithcoin concretas</translation>
+        <source>Verify messages to ensure they were signed with specified Bolagato addresses</source>
+        <translation>Verificar mensajes comprobando que están firmados con direcciones Bolagato concretas</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -434,8 +434,8 @@
         <translation>&amp;Opciones de consola de comandos</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Faithcoin network</source>
-        <translation><numerusform>%n conexión activa hacia la red Faithcoin</numerusform><numerusform>%n conexiones activas hacia la red Faithcoin</numerusform></translation>
+        <source>%n active connection(s) to Bolagato network</source>
+        <translation><numerusform>%n conexión activa hacia la red Bolagato</numerusform><numerusform>%n conexiones activas hacia la red Bolagato</numerusform></translation>
     </message>
     <message>
         <source>Indexing blocks on disk...</source>
@@ -502,8 +502,8 @@
         <translation>Cerrar monedero</translation>
     </message>
     <message>
-        <source>Show the %1 help message to get a list with possible Faithcoin command-line options</source>
-        <translation>Mostrar el mensaje de ayuda %1 para obtener una lista de los posibles comandos de linea de comandos de Faithcoin</translation>
+        <source>Show the %1 help message to get a list with possible Bolagato command-line options</source>
+        <translation>Mostrar el mensaje de ayuda %1 para obtener una lista de los posibles comandos de linea de comandos de Bolagato</translation>
     </message>
     <message>
         <source>default wallet</source>
@@ -613,8 +613,8 @@
         <translation>El monedero está &lt;b&gt;cifrado&lt;/b&gt; y actualmente &lt;b&gt;bloqueado&lt;/b&gt;</translation>
     </message>
     <message>
-        <source>A fatal error occurred. Faithcoin can no longer continue safely and will quit.</source>
-        <translation>Ha ocurrido un error fatal. Faithcoin no puede seguir seguro y se cerrará.</translation>
+        <source>A fatal error occurred. Bolagato can no longer continue safely and will quit.</source>
+        <translation>Ha ocurrido un error fatal. Bolagato no puede seguir seguro y se cerrará.</translation>
     </message>
 </context>
 <context>
@@ -803,8 +803,8 @@
         <translation>Editar dirección de envío</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Faithcoin address.</source>
-        <translation>La dirección introducida "%1" no es una dirección Faithcoin válida.</translation>
+        <source>The entered address "%1" is not a valid Bolagato address.</source>
+        <translation>La dirección introducida "%1" no es una dirección Bolagato válida.</translation>
     </message>
     <message>
         <source>Address "%1" already exists as a receiving address with label "%2" and so cannot be added as a sending address.</source>
@@ -900,8 +900,8 @@
         <translation>Utilizar un directorio de datos personalizado:</translation>
     </message>
     <message>
-        <source>Faithcoin</source>
-        <translation>Faithcoin</translation>
+        <source>Bolagato</source>
+        <translation>Bolagato</translation>
     </message>
     <message>
         <source>At least %1 GB of data will be stored in this directory, and it will grow over time.</source>
@@ -912,8 +912,8 @@
         <translation>Se almacenará aproximadamente %1 GB de datos en este directorio.</translation>
     </message>
     <message>
-        <source>%1 will download and store a copy of the Faithcoin block chain.</source>
-        <translation>%1 descargará y almacenará una copia de la cadena de bloques de Faithcoin.</translation>
+        <source>%1 will download and store a copy of the Bolagato block chain.</source>
+        <translation>%1 descargará y almacenará una copia de la cadena de bloques de Bolagato.</translation>
     </message>
     <message>
         <source>The wallet will also be stored in this directory.</source>
@@ -1129,8 +1129,8 @@
         <translation>&amp;Gastar cambio no confirmado</translation>
     </message>
     <message>
-        <source>Automatically open the Faithcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Abrir automáticamente el puerto del cliente Faithcoin en el router. Esta opción solo funciona si el router admite UPnP y está activado.</translation>
+        <source>Automatically open the Bolagato client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Abrir automáticamente el puerto del cliente Bolagato en el router. Esta opción solo funciona si el router admite UPnP y está activado.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -1145,8 +1145,8 @@
         <translation>Permitir conexiones entrantes</translation>
     </message>
     <message>
-        <source>Connect to the Faithcoin network through a SOCKS5 proxy.</source>
-        <translation>Conectarse a la red Faithcoin a través de un proxy SOCKS5.</translation>
+        <source>Connect to the Bolagato network through a SOCKS5 proxy.</source>
+        <translation>Conectarse a la red Bolagato a través de un proxy SOCKS5.</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS5 proxy (default proxy):</source>
@@ -1181,8 +1181,8 @@
         <translation>Tor</translation>
     </message>
     <message>
-        <source>Connect to the Faithcoin network through a separate SOCKS5 proxy for Tor hidden services.</source>
-        <translation>Conectar a la red Faithcoin mediante un proxy SOCKS5 por separado para los servicios ocultos de Tor.</translation>
+        <source>Connect to the Bolagato network through a separate SOCKS5 proxy for Tor hidden services.</source>
+        <translation>Conectar a la red Bolagato mediante un proxy SOCKS5 por separado para los servicios ocultos de Tor.</translation>
     </message>
     <message>
         <source>&amp;Window</source>
@@ -1292,8 +1292,8 @@
         <translation>Formulario</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Faithcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>La información mostrada puede estar desactualizada. Su monedero se sincroniza automáticamente con la red Faithcoin después de que se haya establecido una conexión, pero este proceso aún no se ha completado.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bolagato network after a connection is established, but this process has not completed yet.</source>
+        <translation>La información mostrada puede estar desactualizada. Su monedero se sincroniza automáticamente con la red Bolagato después de que se haya establecido una conexión, pero este proceso aún no se ha completado.</translation>
     </message>
     <message>
         <source>Watch-only:</source>
@@ -1395,8 +1395,8 @@
         <translation>Dirección de pago inválida %1</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid Faithcoin address or malformed URI parameters.</source>
-        <translation>URI no puede ser analizado! Esto puede ser causado por una dirección Faithcoin inválida o parametros URI mal formados.</translation>
+        <source>URI cannot be parsed! This can be caused by an invalid Bolagato address or malformed URI parameters.</source>
+        <translation>URI no puede ser analizado! Esto puede ser causado por una dirección Bolagato inválida o parametros URI mal formados.</translation>
     </message>
     <message>
         <source>Payment request file handling</source>
@@ -1497,8 +1497,8 @@
         <translation>Cantidad</translation>
     </message>
     <message>
-        <source>Enter a Faithcoin address (e.g. %1)</source>
-        <translation>Introducir una dirección Faithcoin (p. ej. %1)</translation>
+        <source>Enter a Bolagato address (e.g. %1)</source>
+        <translation>Introducir una dirección Bolagato (p. ej. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1953,8 +1953,8 @@
         <translation>Mensaje:</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Faithcoin network.</source>
-        <translation>Un mensaje opcional para adjuntar a la solicitud de pago, que se muestra cuando se abre la solicitud. Nota: El mensaje no se enviará con el pago por la red Faithcoin.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Bolagato network.</source>
+        <translation>Un mensaje opcional para adjuntar a la solicitud de pago, que se muestra cuando se abre la solicitud. Nota: El mensaje no se enviará con el pago por la red Bolagato.</translation>
     </message>
     <message>
         <source>An optional label to associate with the new receiving address.</source>
@@ -2235,7 +2235,7 @@ Nota: Dado que la comisión se calcula por byte, una comisión de "100 satoshis 
     </message>
     <message>
         <source>When there is less transaction volume than space in the blocks, miners as well as relaying nodes may enforce a minimum fee. Paying only this minimum fee is just fine, but be aware that this can result in a never confirming transaction once there is more demand for bolagato transactions than the network can process.</source>
-        <translation>Cuando hay menos volumen de transacciónes que espacio en los bloques, los mineros y los nodos de retransmisión pueden imponer una comisión mínima. Pagar solo esta comisión mínima está bien, pero tenga en cuenta que esto puede resultar en una transacción nunca confirmada una vez que haya más demanda de transacciones de Faithcoin de la que la red puede procesar.</translation>
+        <translation>Cuando hay menos volumen de transacciónes que espacio en los bloques, los mineros y los nodos de retransmisión pueden imponer una comisión mínima. Pagar solo esta comisión mínima está bien, pero tenga en cuenta que esto puede resultar en una transacción nunca confirmada una vez que haya más demanda de transacciones de Bolagato de la que la red puede procesar.</translation>
     </message>
     <message>
         <source>A too low fee might result in a never confirming transaction (read the tooltip)</source>
@@ -2382,8 +2382,8 @@ Nota: Dado que la comisión se calcula por byte, una comisión de "100 satoshis 
         <translation><numerusform>Estimado para empezar la confirmación dentro de %n bloque.</numerusform><numerusform>Estimado para empezar la confirmación dentro de %n bloques.</numerusform></translation>
     </message>
     <message>
-        <source>Warning: Invalid Faithcoin address</source>
-        <translation>Alerta: dirección Faithcoin inválida</translation>
+        <source>Warning: Invalid Bolagato address</source>
+        <translation>Alerta: dirección Bolagato inválida</translation>
     </message>
     <message>
         <source>Warning: Unknown change address</source>
@@ -2425,8 +2425,8 @@ Nota: Dado que la comisión se calcula por byte, una comisión de "100 satoshis 
         <translation>Esto es un pago ordinario.</translation>
     </message>
     <message>
-        <source>The Faithcoin address to send the payment to</source>
-        <translation>Dirección Faithcoin a la que enviar el pago</translation>
+        <source>The Bolagato address to send the payment to</source>
+        <translation>Dirección Bolagato a la que enviar el pago</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -2473,8 +2473,8 @@ Nota: Dado que la comisión se calcula por byte, una comisión de "100 satoshis 
         <translation>Introduce una etiqueta para esta dirección para añadirla a la lista de direcciones utilizadas</translation>
     </message>
     <message>
-        <source>A message that was attached to the bolagato: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Faithcoin network.</source>
-        <translation>Un mensaje que se adjuntó a la bolagato: URL que será almacenada con la transacción para su referencia. Nota: Este mensaje no se envía a través de la red Faithcoin.</translation>
+        <source>A message that was attached to the bolagato: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Bolagato network.</source>
+        <translation>Un mensaje que se adjuntó a la bolagato: URL que será almacenada con la transacción para su referencia. Nota: Este mensaje no se envía a través de la red Bolagato.</translation>
     </message>
     <message>
         <source>Pay To:</source>
@@ -2522,8 +2522,8 @@ Nota: Dado que la comisión se calcula por byte, una comisión de "100 satoshis 
         <translation>Puede firmar los mensajes con sus direcciones para demostrar que las posee. Tenga cuidado de no firmar cualquier cosa de manera vaga o aleatoria, pues los ataques de phishing pueden tratar de engañarle firmando su identidad a través de ellos. Sólo firme declaraciones totalmente detalladas con las que usted esté de acuerdo.</translation>
     </message>
     <message>
-        <source>The Faithcoin address to sign the message with</source>
-        <translation>Dirección Faithcoin con la que firmar el mensaje</translation>
+        <source>The Bolagato address to sign the message with</source>
+        <translation>Dirección Bolagato con la que firmar el mensaje</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2554,8 +2554,8 @@ Nota: Dado que la comisión se calcula por byte, una comisión de "100 satoshis 
         <translation>Copiar la firma actual al portapapeles del sistema</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Faithcoin address</source>
-        <translation>Firmar el mensaje para demostrar que se posee esta dirección Faithcoin</translation>
+        <source>Sign the message to prove you own this Bolagato address</source>
+        <translation>Firmar el mensaje para demostrar que se posee esta dirección Bolagato</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -2578,12 +2578,12 @@ Nota: Dado que la comisión se calcula por byte, una comisión de "100 satoshis 
         <translation>Introduzca la dirección para la firma, el mensaje (asegurándose de copiar tal cual los saltos de línea, espacios, tabulaciones, etc.) y la firma a continuación para verificar el mensaje. Tenga cuidado de no asumir más información de lo que dice el propio mensaje firmado para evitar fraudes basados en ataques de tipo man-in-the-middle. </translation>
     </message>
     <message>
-        <source>The Faithcoin address the message was signed with</source>
-        <translation>La dirección Faithcoin con la que se firmó el mensaje</translation>
+        <source>The Bolagato address the message was signed with</source>
+        <translation>La dirección Bolagato con la que se firmó el mensaje</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Faithcoin address</source>
-        <translation>Verificar el mensaje para comprobar que fue firmado con la dirección Faithcoin indicada</translation>
+        <source>Verify the message to ensure it was signed with the specified Bolagato address</source>
+        <translation>Verificar el mensaje para comprobar que fue firmado con la dirección Bolagato indicada</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -3250,8 +3250,8 @@ Nota: Dado que la comisión se calcula por byte, una comisión de "100 satoshis 
         <translation>No se ha podido comenzar el servidor HTTP. Ver debug log para detalles.</translation>
     </message>
     <message>
-        <source>Faithcoin Core</source>
-        <translation>Faithcoin Core</translation>
+        <source>Bolagato Core</source>
+        <translation>Bolagato Core</translation>
     </message>
     <message>
         <source>The %s developers</source>

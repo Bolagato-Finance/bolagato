@@ -22,7 +22,7 @@ libtool
 pkg-config
 python37
 
-git clone https://github.com/bolagato-project/bolagato.git
+git clone https://github.com/Bolagato-Finance/bolagato.git
 ```
 
 See [dependencies.md](dependencies.md) for a complete overview.

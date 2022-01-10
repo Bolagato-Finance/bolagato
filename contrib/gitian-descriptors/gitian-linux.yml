@@ -32,7 +32,7 @@ packages:
 - "ca-certificates"
 - "python"
 remotes:
-- "url": "https://github.com/bolagato-project/bolagato.git"
+- "url": "https://github.com/Bolagato-Finance/bolagato.git"
   "dir": "bolagato"
 files: []
 script: |

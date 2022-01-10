@@ -555,7 +555,7 @@ void SetupServerArgs()
 
 std::string LicenseInfo()
 {
-    const std::string URL_SOURCE_CODE = "<https://github.com/bolagato-project/bolagato>";
+    const std::string URL_SOURCE_CODE = "<https://github.com/Bolagato-Finance/bolagato>";
     const std::string URL_WEBSITE = "<https://bolagato.org>";
 
     return CopyrightHolders(strprintf(_("Copyright (C) %i-%i"), 2011, COPYRIGHT_YEAR) + " ") + "\n" +

@@ -43,7 +43,7 @@ Build Bolagato Core
 
 1. Clone the Bolagato Core source code:
 
-        git clone https://github.com/bolagato-project/bolagato
+        git clone https://github.com/Bolagato-Finance/bolagato
         cd bolagato
 
 2.  Build Bolagato Core:

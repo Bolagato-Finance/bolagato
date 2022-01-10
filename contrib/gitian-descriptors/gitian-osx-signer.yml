@@ -7,7 +7,7 @@ architectures:
 packages:
 - "faketime"
 remotes:
-- "url": "https://github.com/bolagato-project/bolagato-detached-sigs.git"
+- "url": "https://github.com/Bolagato-Finance/bolagato-detached-sigs.git"
   "dir": "signature"
 files:
 - "bolagato-osx-unsigned.tar.gz"

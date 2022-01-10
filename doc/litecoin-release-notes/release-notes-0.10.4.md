@@ -8,7 +8,7 @@ recommended to upgrade to this version as soon as possible.
 
 Please report bugs using the issue tracker at github:
 
-  <https://github.com/bolagato-project/bolagato/issues>
+  <https://github.com/Bolagato-Finance/bolagato/issues>
 
 Upgrading and downgrading
 =========================

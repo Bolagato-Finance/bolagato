@@ -10,7 +10,7 @@
 #include <string>
 #include <time.h>
 
-#ifdef WIN32
+#ifdef WIN32_MANUAL_BUILD
 // gmtime_r can be defined by mingw
 #ifndef gmtime_r
 static struct tm* gmtime_r(const time_t* t, struct tm* r)
